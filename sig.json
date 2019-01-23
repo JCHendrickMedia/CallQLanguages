@@ -3,5 +3,11 @@
 		"firstName" : "Company Name",
 		"lastName" : "Invoice Number",
 		"notes" : "Order Status"
+	},
+	"currentlyServed" : {
+		"customerName" : "Company Name"
+	},
+	"liveTicketTable" : {
+		"customerColumn" : "Company Name"
 	}
 }
