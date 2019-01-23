@@ -1,5 +1,5 @@
 {
-	"quickserve" : {
+	"quickServe" : {
 		"firstName" : "Company Name",
 		"lastName" : "Invoice Number",
 		"notes" : "Order Status"
