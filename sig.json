@@ -1,13 +1,16 @@
 {
 	"quickServe" : {
 		"firstName" : "Company Name",
-		"lastName" : "Invoice Number",
+		"lastName" : "Invoice/Docket Number",
 		"notes" : "Order Status"
+		"notesPlaceholder" :  "Order Status",
+		"phoneNumberPlaceholder": "+353"
 	},
 	"currentlyServed" : {
 		"customerName" : "Company Name"
 	},
 	"liveTicketTable" : {
 		"customerColumn" : "Company Name"
+		"notesColumn" : "Order Status"
 	}
 }
