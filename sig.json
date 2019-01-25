@@ -2,7 +2,7 @@
 	"quickServe" : {
 		"firstName" : "Company Name",
 		"lastName" : "Invoice/Docket Number",
-		"notes" : "Order Status"
+		"notes" : "Order Status",
 		"notesPlaceholder" :  "Order Status",
 		"phoneNumberPlaceholder": "+353"
 	},
@@ -10,7 +10,7 @@
 		"customerName" : "Company Name"
 	},
 	"liveTicketTable" : {
-		"customerColumn" : "Company Name"
+		"customerColumn" : "Company Name",
 		"notesColumn" : "Order Status"
 	}
 }
