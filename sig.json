@@ -15,6 +15,9 @@
 		"customerColumn" : "Company Name",
 		"notesColumn" : "Order Status"
 	},
+	"vuePhoneNumber" : {
+		"defaultCountry" : "ie"
+	},
 	"visitLookup" : {
 		"firstName": "Company Name",
 		"lastName": "Invoice/Docket Number",
