@@ -14,5 +14,10 @@
 	"liveTicketTable" : {
 		"customerColumn" : "Company Name",
 		"notesColumn" : "Order Status"
+	},
+	"visitLookup" : {
+		"firstName": "Company Name",
+		"lastName": "Invoice/Docket Number",
+		"notes": "Order Status"
 	}
 }
