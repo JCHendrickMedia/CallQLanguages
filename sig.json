@@ -2,7 +2,7 @@
 	"quickServe" : {
 		"firstName" : "Company Name",
 		"firstNamePlaceHolder": "Example Inc.",
-		"lastName" : "Invoice/Docket Number",
+		"lastName" : "Docket Number",
 		"lastNamePlaceHolder": "54321",
 		"notes" : "Order Status",
 		"notesPlaceholder" :  "Order Status",
@@ -20,7 +20,7 @@
 	},
 	"visitLookup" : {
 		"firstName": "Company Name",
-		"lastName": "Invoice/Docket Number",
+		"lastName": "Docket Number",
 		"notes": "Order Status"
 	}
 }
