@@ -1,1 +1,26 @@
-
+{
+	"quickServe" : {
+		"firstName" : "Company Name",
+		"firstNamePlaceHolder": "Example Inc.",
+		"lastName" : "Docket Number",
+		"lastNamePlaceHolder": "54321",
+		"notes" : "Order Status",
+		"notesPlaceholder" :  "Order Status",
+		"phoneNumberPlaceholder": "+353"
+	},
+	"currentlyServed" : {
+		"customerName" : "Company Name"
+	},
+	"liveTicketTable" : {
+		"customerColumn" : "Company Name",
+		"notesColumn" : "Order Status"
+	},
+	"vuePhoneNumber" : {
+		"defaultCountry" : "ie"
+	},
+	"visitLookup" : {
+		"firstName": "Company Name",
+		"lastName": "Docket Number",
+		"notes": "Order Status"
+	}
+}
